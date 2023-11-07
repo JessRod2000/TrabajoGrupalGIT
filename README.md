@@ -1,4 +1,6 @@
 # TrabajoGrupalGIT
-trabajo grupal GITT
+trabajo grupal Git
 
 Segundo commit
+Tercer commit
+Cuarto commit
