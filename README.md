@@ -1,4 +1,4 @@
 # TrabajoGrupalGIT
-trabajo grupal GIT
+trabajo grupal GITT
 
 Segundo commit
